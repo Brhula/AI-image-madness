@@ -8,4 +8,4 @@ Exploration of AI image generqation
 ### TEXT to IMAGE engines
 [Dall-e2](https://openai.com/dall-e-2/) : paying servide on-line   
 [Midjourney](https://www.midjourney.com/home/) : paying servide on-line   
-[Disco Diffusion](https://botbox.dev/disco-diffusion-guide/) : Free, local computer and slow    
+[Disco Diffusion](https://botbox.dev/disco-diffusion-guide/), [here also](http://discodiffusion.com/): Free, local computer and slow    
