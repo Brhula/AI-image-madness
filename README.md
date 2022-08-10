@@ -11,3 +11,5 @@ Exploration of AI image generqation
 [Disco Diffusion](https://botbox.dev/disco-diffusion-guide/), [here also](http://discodiffusion.com/): Free, local computer and slow    
 Stable Diffusion
 
+### SCALE IMAGES with AI
+[Real ERSGAN](https://github.com/xinntao/Real-ESRGAN)
