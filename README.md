@@ -12,4 +12,5 @@ Exploration of AI image generqation
 [Stable Diffusion](https://stability.ai/)
 
 ### SCALE IMAGES with AI
-[Real ERSGAN](https://github.com/xinntao/Real-ESRGAN)
+[Real ERSGAN](https://github.com/xinntao/Real-ESRGAN)   
+[ERSGAN with GUI](https://github.com/n00mkrad/cupscale)   
