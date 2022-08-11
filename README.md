@@ -10,6 +10,7 @@ Exploration of AI image generqation
 [Dall-e2](https://openai.com/dall-e-2/) : paying servide on-line   
 [Midjourney](https://www.midjourney.com/home/) : paying servide on-line   
 [Disco Diffusion](https://botbox.dev/disco-diffusion-guide/), [here also](http://discodiffusion.com/): Free, local computer and slow    
+[Night Cafe](https://creator.nightcafe.studio/text-to-image-art) : web based   
 [Stable Diffusion](https://stability.ai/)
 
 ### SCALE IMAGES with AI
