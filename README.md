@@ -2,8 +2,9 @@
 Exploration of AI image generqation
 
 ### Introductory material   
+[The text-to-image revolution, explained](https://www.vox.com/23150422/text-to-image-ai-deep-learning)   
 [Eliso’s Generative Art Guides](https://botbox.dev/)   
-
+[Making AI Art With Midjourney](https://www.slaphappylarry.com/making-ai-art-with-midjourney/)   
 
 ### TEXT to IMAGE engines
 [Dall-e2](https://openai.com/dall-e-2/) : paying servide on-line   
