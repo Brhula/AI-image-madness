@@ -11,7 +11,8 @@ Exploration of AI image generqation
 [Midjourney](https://www.midjourney.com/home/) : paying servide on-line   
 [Disco Diffusion](https://botbox.dev/disco-diffusion-guide/), [here also](http://discodiffusion.com/): Free, local computer and slow    
 [Night Cafe](https://creator.nightcafe.studio/text-to-image-art) : web based   
-[Stable Diffusion](https://stability.ai/)
+[Stable Diffusion](https://stability.ai/)   
+GUI para "Stable Diffusion". Ejecutable en Windows que lo hace todo [NMKD Stable Diffusion](https://nmkd.itch.io/t2i-gui)   
 
 ### SCALE IMAGES with AI
 [Real ERSGAN](https://github.com/xinntao/Real-ESRGAN)   
