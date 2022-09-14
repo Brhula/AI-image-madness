@@ -14,6 +14,15 @@ Exploration of AI image generqation
 [Stable Diffusion](https://stability.ai/)   
 GUI para "Stable Diffusion". Ejecutable en Windows que lo hace todo [NMKD Stable Diffusion](https://nmkd.itch.io/t2i-gui)   
 
-### SCALE IMAGES with AI
+### STABLE DIFFUSION   
+How to and Tips:   
+- [SD basic / intermediate guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)   
+
+GUI and installers   
+- [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
+
+### SCALE IMAGES with AI   
+Estas herramientas suelen ir incluidas en las GUI de los "engines"   
+
 [Real ERSGAN](https://github.com/xinntao/Real-ESRGAN)   
 [ERSGAN with GUI](https://github.com/n00mkrad/cupscale)   
