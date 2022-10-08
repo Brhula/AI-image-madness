@@ -17,15 +17,15 @@ GUI para "Stable Diffusion". Ejecutable en Windows que lo hace todo [NMKD Stable
 ### STABLE DIFFUSION   
 How to and Tips:   
 - [SD basic / intermediate guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)   
-- [Styles of drawing / painting](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit#heading=h.kn3gjdhgaoek)
+- [Styles of drawing / painting](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit#heading=h.kn3gjdhgaoek) Con imagenes de guia.
 - [How to draw and paint with SD. Compositing images](https://andys.page/posts/how-to-draw/#)
 - [SD prompting cheatsheet](https://moritz.pm/posts/parameters)
-- [ Akashic Records / A compendium of information regarding Stable Diffusion (SD)](https://github.com/Maks-s/sd-akashic)
+- [ Akashic Records / A compendium of information regarding Stable Diffusion (SD)](https://github.com/Maks-s/sd-akashic) *Interesante*   
 
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
 - [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)   
-- [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)   
+- [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)    
 - [KRITA SD Plug-in](https://www.flyingdog.de/sd/en/)
 
 ### SCALE IMAGES with AI   
