@@ -22,7 +22,7 @@ How to and Tips:
 
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
-- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)   
+- [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)   
 - [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)   
 
 ### SCALE IMAGES with AI   
