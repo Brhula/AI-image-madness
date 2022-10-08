@@ -32,6 +32,10 @@ GUI and installers
 Models    
 - [Stable Diffusion Models](https://rentry.org/sdmodels)
 
+Dreambooth (learning new models to use with SD)   
+- [Dreambooth on Stable Diffusion](https://github.com/gammagec/Dreambooth-SD-optimized)   
+- [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)
+
 ### SCALE IMAGES with AI   
 Estas herramientas suelen ir incluidas en las GUI de los "engines"   
 
