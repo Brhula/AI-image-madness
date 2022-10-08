@@ -19,6 +19,8 @@ How to and Tips:
 - [SD basic / intermediate guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)   
 - [Styles of drawing / painting](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit#heading=h.kn3gjdhgaoek)
 - [How to draw and paint with SD. Compositing images](https://andys.page/posts/how-to-draw/#)
+- [SD prompting cheatsheet](https://moritz.pm/posts/parameters)
+- [ Akashic Records / A compendium of information regarding Stable Diffusion (SD)](https://github.com/Maks-s/sd-akashic)
 
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
