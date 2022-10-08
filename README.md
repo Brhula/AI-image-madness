@@ -29,6 +29,9 @@ GUI and installers
 - [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)    
 - [KRITA SD Plug-in](https://www.flyingdog.de/sd/en/)
 
+Models    
+- [Stable Diffusion Models](https://rentry.org/sdmodels)
+
 ### SCALE IMAGES with AI   
 Estas herramientas suelen ir incluidas en las GUI de los "engines"   
 
