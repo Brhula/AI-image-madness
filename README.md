@@ -43,7 +43,8 @@ Textual inversion (learn new models for SD):
 
 Dreambooth (learning new models to use with SD)   
 - [Dreambooth on Stable Diffusion](https://github.com/gammagec/Dreambooth-SD-optimized)   
-- [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)
+- [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)   
+- [Dreambooth on Windows via Linux virtual enviroment](https://www.youtube.com/watch?v=w6PTviOCYQY&t=0s)   
 
 ### SCALE IMAGES with AI   
 Estas herramientas suelen ir incluidas en las GUI de los "engines"   
