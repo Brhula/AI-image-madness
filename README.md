@@ -38,6 +38,9 @@ GUI and installers
 Models    
 - [Stable Diffusion Models](https://rentry.org/sdmodels)
 
+Textual inversion (learn new models for SD):
+- [Textual Inversion - Make Anything In Stable Diffusion!](https://www.youtube.com/watch?v=7Lxdk89W2K0&t=91s)
+
 Dreambooth (learning new models to use with SD)   
 - [Dreambooth on Stable Diffusion](https://github.com/gammagec/Dreambooth-SD-optimized)   
 - [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)
