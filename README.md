@@ -23,6 +23,11 @@ How to and Tips:
 - [SD prompting cheatsheet](https://moritz.pm/posts/parameters)
 - [ Akashic Records / A compendium of information regarding Stable Diffusion (SD)](https://github.com/Maks-s/sd-akashic) *Interesante*   
 
+PROMPT Craft
+- [Help with facial descriptions (for writers)](https://www.bryndonovan.com/2015/06/16/master-list-of-physical-descriptions/)   
+- [Lexica: images and prompts](https://lexica.art/)   
+- [A.I Text promp generator (with images)](https://aitextpromptgenerator.com/)
+
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
 - [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)   
