@@ -51,7 +51,7 @@ Los samplers suelen modificar significativamente la imagen con los valores de "s
 - Euler : Bastante estable. Inutil pasar de 30 "steps", no cambia.   
 - Euler a (adaptativo): Sampler cambia notablemente al subir "steps". Util de 10 a 100.   
 - Heun : Resultados parecidos a "Euler". Es estable y como maximo 30 "steps"   
-- LMS : (rango haste 50)   
+- LMS : (rango haste 50) ESTE ES EL QUE VIENE POR DEFECTO   
 - PLMS : (rango  10-60)
 - DDIM  : (rango  10-60)   
 - DPM : (rango hasta 10). Este sampler da imagenes muy diferentes de los otros.   
