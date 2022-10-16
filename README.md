@@ -46,6 +46,22 @@ Dreambooth (learning new models to use with SD)
 - [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)   
 - [Dreambooth on Windows via Linux virtual enviroment](https://www.youtube.com/watch?v=w6PTviOCYQY&t=0s)   
 
+SD Samplers (resumen subjetivo)   
+Los samplers suelen modificar significativamente la imagen con los valores de "steps" bajos. De 10 a 50 suele haber cambio.    
+- Euler : Bastante estable. Inutil pasar de 30 "steps", no cambia.   
+- Euler a (adaptativo): Sampler cambia notablemente al subir "steps". Util de 10 a 100.   
+- Heun : Resultados parecidos a "Euler". Es estable y como maximo 30 "steps"   
+- LMS : (rango haste 50)   
+- PLMS : (rango  10-60)
+- DDIM  : (rango  10-60)   
+- DPM : (rango hasta 10). Este sampler da imagenes muy diferentes de los otros.   
+- DPM Fast : (rango 10-150). Muy inestable, cambia mucho lo que vemos con diferentes "steps". <Muy diferente el resultado de otros samplers. A partir de 90 "steps" parece que no cambia tanto.   
+- DPM 2 : (rango hasta 40) parecido a la "norma"   
+- DPM 2 Adaptive : (rango hasta 100) Muy variable al principio (primeros "steps"), luego se vuelve mas estable.   
+- DPM 2 A Karras : (rango hasta 100) Variable al principo, luego converge mas o menos como los otros.   
+- DPM 2 Karras : (rango hasta 30) cambia el resultados respecto a los otros.   
+
+
 ### SCALE IMAGES with AI   
 Estas herramientas suelen ir incluidas en las GUI de los "engines"   
 
