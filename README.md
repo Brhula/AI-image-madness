@@ -31,7 +31,8 @@ PROMPT Craft
 
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
-- [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and [Interesting documentation](https://hub.tcno.co/ai/stable-diffusion/webui/)     
+- [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and [Interesting documentation](https://hub.tcno.co/ai/stable-diffusion/webui/)    
+    - To update repo, CMD/Bash and go to distribution and `git pull` to get last version from GitHub   
     - Intall Krita fork [from 1111](https://github.com/Interpause/auto-sd-krita/wiki/Install-Guide#plugin-installation)   
     - [Quick switch from Krita to 1111 fork](https://github.com/Interpause/auto-sd-krita/wiki/Quick-Switch-Using-Existing-AUTOMATIC1111-Install)   
 - [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)    
