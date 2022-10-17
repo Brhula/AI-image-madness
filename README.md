@@ -30,7 +30,7 @@ PROMPT Craft
 
 GUI and installers   
 - [NMKD Stable Diffusion GUI // Instalación totalmente automatica](https://nmkd.itch.io/t2i-gui)   
-- [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)   
+- [Stable Diffusion web UI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and [Interesting documentation](https://hub.tcno.co/ai/stable-diffusion/webui/)     
 - [AI Image Generator GUI | aiimag.es](https://sunija.itch.io/aiimages)    
 - [KRITA SD Plug-in](https://www.flyingdog.de/sd/en/)   
 - [KOI Krita Open (source) img2img](https://github.com/nousr/koi)   
