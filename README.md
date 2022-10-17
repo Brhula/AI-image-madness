@@ -22,6 +22,7 @@ How to and Tips:
 - [How to draw and paint with SD. Compositing images](https://andys.page/posts/how-to-draw/#) Muy interesante para aprender a dirigir SD y mezclar elementos   
 - [SD prompting cheatsheet](https://moritz.pm/posts/parameters)
 - [ Akashic Records / A compendium of information regarding Stable Diffusion (SD)](https://github.com/Maks-s/sd-akashic) *Interesante*   
+- Para quitar la "censura". [Remove SAFETY filter](https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/)   
 
 PROMPT Craft
 - [Help with facial descriptions (for writers)](https://www.bryndonovan.com/2015/06/16/master-list-of-physical-descriptions/)   
