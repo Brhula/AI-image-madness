@@ -45,7 +45,8 @@ GUI and installers
 - [KOI Krita Open (source) img2img](https://github.com/nousr/koi)   
 
 Models    
-- [Stable Diffusion Models](https://rentry.org/sdmodels)
+- [Stable Diffusion Models](https://rentry.org/sdmodels)    
+- [Tron Legacy](https://huggingface.co/dallinmackay/Tron-Legacy-diffusion)    
 
 Textual inversion (learn new models for SD):
 - [Textual Inversion - Make Anything In Stable Diffusion!](https://www.youtube.com/watch?v=7Lxdk89W2K0&t=91s)
