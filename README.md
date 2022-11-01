@@ -47,6 +47,7 @@ GUI and installers
 Models    
 - [Stable Diffusion Models](https://rentry.org/sdmodels)    
 - [Modern Disney](https://huggingface.co/nitrosocke/mo-di-diffusion)    
+- [Classic Animation](https://huggingface.co/nitrosocke/classic-anim-diffusion)    
 - [Tron Legacy](https://huggingface.co/dallinmackay/Tron-Legacy-diffusion)    
 
 Textual inversion (learn new models for SD):
