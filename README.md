@@ -52,7 +52,8 @@ Models
 - [Waifu diffusion(1.3) - Anime look](https://huggingface.co/hakurei/waifu-diffusion-v1-3)   
 
 Textual inversion (learn new models for SD):
-- [Textual Inversion - Make Anything In Stable Diffusion!](https://www.youtube.com/watch?v=7Lxdk89W2K0&t=91s)
+- [Textual Inversion - Make Anything In Stable Diffusion!](https://www.youtube.com/watch?v=7Lxdk89W2K0&t=91s)    
+- [TEXTUAL INVERSION - How To Do It In Stable Diffusion(AUTOMATIC1111)](https://www.youtube.com/watch?v=MLz0iM0M7Fk)    
 
 Dreambooth (learning new models to use with SD)   
 - [Dreambooth on Stable Diffusion](https://github.com/gammagec/Dreambooth-SD-optimized)   
