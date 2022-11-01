@@ -59,6 +59,8 @@ Dreambooth (learning new models to use with SD)
 - [ DreamBooth on SD on a 3090](https://www.reddit.com/r/StableDiffusion/comments/xo4onu/using_dreambooth_on_sd_on_a_3090_w24gb_vram_about/)   
 - [Dreambooth on Windows via Linux virtual enviroment](https://www.youtube.com/watch?v=w6PTviOCYQY&t=0s)   
 
+- [Automatic1111 Guide to train youre face (Hypernetwork)](https://www.youtube.com/watch?v=P1dfwViVOIU)   
+
 SD Samplers (resumen subjetivo)   
 Los samplers suelen modificar significativamente la imagen con los valores de "steps" bajos. De 10 a 50 suele haber cambio.    
 - Euler : Bastante estable. Inutil pasar de 30 "steps", no cambia.   
