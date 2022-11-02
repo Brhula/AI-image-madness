@@ -20,6 +20,8 @@ GUI para "Stable Diffusion". Ejecutable en Windows que lo hace todo [NMKD Stable
 **Step count //** this parameter controls the number of these denoising steps to final image   
 **Diffusion samplers //** are the method used to denoise the image during generation. Use DDIM for beginners at 10 steps.   
 
+**Textual Inversion //** Metodo de aprendizaje de nuevos modelos (Objetos, animales, personas,...) utilizando el modelo SD EXISTENTE. No lo modifica, solamente intenta generar un nuevo "token"  dentro del "latent space" que ya tiene. El resutando es un "embedding" de poco peso (4Mb) que se puede llamar utilizando el "token".
+
 How to and Tips:   
 - [SD basic / intermediate guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)   
 - [Stable Diffusion: Tutorials, Resources, and Tools](https://stackdiary.com/stable-diffusion-resources/)   
