@@ -22,6 +22,10 @@ GUI para "Stable Diffusion". Ejecutable en Windows que lo hace todo [NMKD Stable
 
 **Textual Inversion //** Metodo de aprendizaje de nuevos modelos (Objetos, animales, personas,...) utilizando el modelo SD EXISTENTE. No lo modifica, solamente intenta generar un nuevo "token"  dentro del "latent space" que ya tiene. El resutando es un "embedding" de poco peso (4Mb) que se puede llamar utilizando el "token".
 
+**Textual Inversions**, Text-to-Image pairs added on top of the Existing model and do not change the original,   
+**Dreambooth**, Retrains a Existing Model and Integrates the Text-to-Image Pair into the model.   
+**Hypernetworks**, Add New Weights to the calculations to Existing Text-to-Image Pairs on top of the Model, They do not change the Model   
+
 How to and Tips:   
 - [SD basic / intermediate guide on Reddit](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/)   
 - [Stable Diffusion: Tutorials, Resources, and Tools](https://stackdiary.com/stable-diffusion-resources/)   
