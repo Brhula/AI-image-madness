@@ -12,3 +12,15 @@
 ## GENERADORES de IMAGEN on-line ##   
 
 [ Stable Diffusion fine tuned on Midjourney v4 images.](https://replicate.com/prompthero/openjourney)   
+
+## TIPS ##   
+
+### SamDoesArt ###   
+```text
+"I found that if you type in “anime,” it actually amplifies Sam’s style.
+
+So like, if you have a generation of Janet Jackson or Nicki Minaj or whoever, typing in “anime” or [[anime]]
+in decreased weight in case it goes too far in his stylistic direction, it makes it look closer.
+
+It seems like in latent space, “anime” and “samdoesarts” are very close to each other…"
+```
