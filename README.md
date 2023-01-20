@@ -83,6 +83,8 @@ Los samplers suelen modificar significativamente la imagen con los valores de "s
 - DPM 2 A Karras : (rango hasta 100) Variable al principo, luego converge mas o menos como los otros.   
 - DPM 2 Karras : (rango hasta 30) cambia el resultados respecto a los otros.   
 
+Estilos para Stable Diffusion   
+[artists whose names can be added to Stable Diffusion prompts](https://github.com/kaikalii/stable-diffusion-artists)   
 
 ### SCALE IMAGES with AI   
 Estas herramientas suelen ir incluidas en las GUI de los "engines"   
