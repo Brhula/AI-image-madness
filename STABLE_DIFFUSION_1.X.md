@@ -11,6 +11,8 @@
 ## Power Users  ##   
 
 [Nerdy Rodent // Reddit](https://twitter.com/NerdyRodent)   
+[Olivio Sarikas // Youtube](https://www.youtube.com/@OlivioSarikas)   
+[Aitrepreneur](https://www.youtube.com/@Aitrepreneur)    
 
 ## GENERADORES de IMAGEN on-line ##   
 
