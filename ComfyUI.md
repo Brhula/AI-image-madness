@@ -15,6 +15,11 @@
 - [Sebastian Kamph](https://www.youtube.com/@sebastiankamph/videos) interesante, muchos ejemplos validos.
 - [Ardy Ala](https://www.youtube.com/@ArdyAla/videos) utiliza Houdini con Comfyui
 
+***WORKFLOWS***
+
+- [Think Diffusion workflows](https://learn.thinkdiffusion.com/a-list-of-the-best-comfyui-workflows/)
+- [Comfyroll SD1.5 Workflow Templates](https://github.com/Suzie1/Comfyroll-Workflow-Templates/tree/main)
+
 ***HOW TO***
 
 - Remove Background: [Reddit](https://blenderneko.github.io/ComfyUI-docs/Interface/Shortcuts/),  [ComfyFlow](https://www.comfyflow.app/blog/remove-background)
