@@ -13,13 +13,16 @@
 ***YOUTUBE channels***
 
 - [Sebastian Kamph](https://www.youtube.com/@sebastiankamph/videos) interesante, muchos ejemplos validos.
-- [Ardy Ala](https://www.youtube.com/@ArdyAla/videos) utiliza Houdini con Comfyui
+- [Ardy Ala](https://www.youtube.com/@ArdyAla/videos) utiliza Houdini con Comfyui.
+- [Scott Detweiler](https://www.youtube.com/@sedetweiler/videos) también interesante.
 
 ***WORKFLOWS***
 
 - [Think Diffusion workflows](https://learn.thinkdiffusion.com/a-list-of-the-best-comfyui-workflows/)
 - [Comfyroll SD1.5 Workflow Templates](https://github.com/Suzie1/Comfyroll-Workflow-Templates/tree/main)
+- [OpenArt ComfyUI Workflow Templates](https://openart.ai/workflows/templates)
 
+  
 ***HOW TO***
 
 - Remove Background: [Reddit](https://blenderneko.github.io/ComfyUI-docs/Interface/Shortcuts/),  [ComfyFlow](https://www.comfyflow.app/blog/remove-background)
