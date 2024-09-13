@@ -26,3 +26,7 @@
 ***HOW TO***
 
 - Remove Background: [Reddit](https://blenderneko.github.io/ComfyUI-docs/Interface/Shortcuts/),  [ComfyFlow](https://www.comfyflow.app/blog/remove-background)
+
+**MODULOS Y EXTENSIONES:**
+
+- Fooocus Inpaint: https://github.com/Acly/comfyui-inpaint-nodes
