@@ -11,4 +11,4 @@
 ### CUSTOM NODES
 
 - Live Portrait (original) : https://github.com/kijai/ComfyUI-LivePortraitKJ
-- Live Portrait Advanced (control separado de expresiones): https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
+- Live Portrait Advanced (control separado de expresiones): https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait Este parece un poco limitado. Se queda un poco justo para ajustar expresiones en monigotes.
